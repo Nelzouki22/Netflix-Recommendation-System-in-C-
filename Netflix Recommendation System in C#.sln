@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Netflix Recommendation System in C#", "Netflix Recommendation System in C#.csproj", "{BFC29C4D-B792-4D05-A211-ACFA11EBB04B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFC29C4D-B792-4D05-A211-ACFA11EBB04B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC29C4D-B792-4D05-A211-ACFA11EBB04B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC29C4D-B792-4D05-A211-ACFA11EBB04B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC29C4D-B792-4D05-A211-ACFA11EBB04B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {578CD929-CEEB-46B3-9EAE-B88A77C5BD69}
+	EndGlobalSection
+EndGlobal
